@@ -49,10 +49,10 @@ body {
   }
 
   .content {
-    flex: 1;
+    flex: 50%;
   }
 
   .sidebar {
-    width: 250px;
+    width: 50%;
   }
 }
